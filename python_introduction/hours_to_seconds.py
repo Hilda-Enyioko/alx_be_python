@@ -1,0 +1,6 @@
+# Objective:  Demonstrate understanding of variable assignments and arithmetic operations by converting a given number of hours into seconds.
+
+hours = 2
+seconds = 2 * 3600
+
+print(f"{hours} hour(s) is {seconds} seconds")

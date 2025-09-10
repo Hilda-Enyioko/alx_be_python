@@ -1,4 +1,4 @@
-# Script Objective: Performs basic arithmetic operations with two predefined numbers. 
+# Objective: Performs basic arithmetic operations with two predefined numbers. 
 
 number1 = 10
 number2 = 5

@@ -1,4 +1,4 @@
-# Script Objective: Apply basic Python arithmetic operations and variable assignments to calculate the simple interest on a given principal amount, rate of interest, and time.
+# Objective: Apply basic Python arithmetic operations and variable assignments to calculate the simple interest on a given principal amount, rate of interest, and time.
 #!/usr/bin/python3
 
 principal = 1000
