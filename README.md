@@ -14,6 +14,9 @@ Each folder in this repository represents a project or task.
 alx-higher_level_programming/ 
 │── python_foundations/ 
 │ ├── basic_operations.py
+│ ├── future_age_calculator.py
+│ ├── hours_to_seconds.py
+│ ├── simple_interest.py
 │── README.md
 
 - `python_foundations/` → beginner-level tasks (e.g., Hello World, basic operations, variables, conditionals, loops).  
