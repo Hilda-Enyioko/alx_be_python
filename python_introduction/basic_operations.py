@@ -1,8 +1,7 @@
 # Script Objective: Performs basic arithmetic operations with two predefined numbers. 
 
 number1 = 10
-
-number2 =  5
+number2 = 5
 
 addition = number1 + number2
 difference  = number1 - number2
