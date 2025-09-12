@@ -1,4 +1,4 @@
-# ALX Higher Level Programming – Python Foundations  
+# ALX Backend Developement – Python x Django 
 
 This repository contains all my Python projects and exercises completed as part of the [**ALX Backend Development Programme**](https://admissions.alxafrica.com/home#).  
 
