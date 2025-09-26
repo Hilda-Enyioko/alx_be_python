@@ -13,6 +13,23 @@ The purpose of this repository is to:
 Each folder in this repository represents a project or task.
 
 alx-higher_level_programming/ 
+│── .github/
+
+│ ├── workflows
+
+│── control-flow/
+
+│ ├── daily_reminder.py
+
+│ ├── match_case_calculator.py
+
+│ ├── multiplication_table.py
+
+│ ├── pattern_drawing.py
+
+│ ├── weather_advice.py
+
+│── fns_and_dsa/ 
 
 │── python_foundations/ 
 
