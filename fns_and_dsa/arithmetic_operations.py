@@ -12,7 +12,7 @@ def perform_operation(num1, num2, operation):
         case "divide":
             if num2 == 0:
                 return "Any number divided by 0 gives infinity"
-            else:
+            elif num2 > 0:
                 result = num1 / num2
         case _:
             return "Enter a valid operation (add, subtract, multiply, divide)"
