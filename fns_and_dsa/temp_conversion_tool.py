@@ -22,9 +22,9 @@ def main():
     global result_temp
     
     try:
-        temperature = int(input("Enter the temperature to convert: "))
+        temperature = float(input("Enter the temperature to convert: "))
     except ValueError:
-        print("Invalid temperature. Please enter a whole number.")
+        print("Invalid temperature. Please enter a numeric value.")
         return
 
     unit = input("Is this temperature in Celsius or Fahrenheit? (C/F): ").strip().upper()
