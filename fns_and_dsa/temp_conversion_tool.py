@@ -8,14 +8,14 @@ def  convert_to_celsius(fahrenheit):
     global FAHRENHEIT_TO_CELSIUS_FACTOR
     global result_temp
 
-    result_temp = FAHRENHEIT_TO_CELSIUS_FACTOR * (fahrenheit - 32)
+    result_temp = (fahrenheit - 32) * FAHRENHEIT_TO_CELSIUS_FACTOR
     return result_temp
 
 def convert_to_fahrenheit(celsius):
     global CELSIUS_TO_FAHRENHEIT_FACTOR
     global result_temp
 
-    result_temp = (CELSIUS_TO_FAHRENHEIT_FACTOR * celsius) + 32
+    result_temp = (celsius * CELSIUS_TO_FAHRENHEIT_FACTOR) + 32
     return result_temp
 
 def main():
