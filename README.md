@@ -10,44 +10,13 @@ The purpose of this repository is to:
 - Track my progress as I advance through the ALX Backend curriculum.  
 
 ## 📂 Structure  
-Each folder in this repository represents a project or task.
+Each folder in this repository represents a project or task:
 
-alx-higher_level_programming/ 
+- `python_foundations/` → beginner-level tasks (e.g., Hello World, basic operations, variables, conditionals, loops).
+- `control-floW` →
+- `fns_and_dsA`
 
-│── .github/
-
-│ ├── workflows
-
-│── control-flow/
-
-│ ├── daily_reminder.py
-
-│ ├── match_case_calculator.py
-
-│ ├── multiplication_table.py
-
-│ ├── pattern_drawing.py
-
-│ ├── weather_advice.py
-
-│── fns_and_dsa/ 
-
-│── python_foundations/ 
-
-│ ├── basic_operations.py
-
-│ ├── finance_calculator.py
-
-│ ├── future_age_calculator.py
-
-│ ├── hours_to_seconds.py
-
-│ ├── simple_interest.py
-
-│── README.md
-
-- `python_foundations/` → beginner-level tasks (e.g., Hello World, basic operations, variables, conditionals, loops).  
-- Each project will contain its own **scripts** and where required, its own **README** with specific details.  
+Each project will contain its own **scripts** and where required, its own **README** with specific details.  
 
 ## 🚀 Learning Goals  
 By working on these projects, I aim to:  
