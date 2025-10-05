@@ -1,5 +1,5 @@
 # Objective: Understand the fundamentals of OOP in Python by implementing a BankAccount class that encapsulates banking operations. Use command line arguments to interact with instances of this class.
-
+# Check ./main-0.py for usage
 class BankAccount:
     def __init__(self, account_balance, initial_balance = 0):
         self.account_balance = float(account_balance)
